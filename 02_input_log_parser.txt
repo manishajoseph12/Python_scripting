@@ -1,0 +1,6 @@
+2026-05-26 10:00:01 INFO User admin logged in successfully.
+2026-05-26 10:02:15 WARNING Disk usage reached 85%.
+2026-05-26 10:05:40 ERROR Database connection timeout occurred on port 5432.
+2026-05-26 10:06:12 INFO Generated monthly sales report.
+2026-05-26 10:12:00 ERROR Failed to write to file system permissions error. 
+
